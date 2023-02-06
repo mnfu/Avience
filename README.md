@@ -1,2 +1,2 @@
 # AvienceDocs
-Technical documentation for Avience thins
+Technical documentation for Avience
